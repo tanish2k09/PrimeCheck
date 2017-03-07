@@ -1,5 +1,11 @@
 # PrimeCheck
 
+-----
+App :
+-----
+The latest built apk of this project can be found inside the bin folder.
+
+
 ----------
 Intro :
 ----------
